@@ -5,9 +5,8 @@ API tests (CRUD) on Petstore site with Chakram
 
 - Node.js (v14.x)
 
-## Installation
+## Installations
 
-### Node.js Installation
 
 Install Node.js by running the following commands:
 
@@ -15,12 +14,12 @@ Install Node.js by running the following commands:
 curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
-### Chakram and Mocha(for reports) Installation
+Chakram and Mocha(for reports) Installation:
 
 Run this command: **npm install mocha chakram**
 
 
-### Run tests
+## Run tests
 
 Run this command: npm test
 
