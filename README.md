@@ -17,7 +17,7 @@ sudo apt-get install -y nodejs
 
 ### Chakram and Mocha(for reports) Installation
 
-Run this command: *npm install mocha chakram*
+Run this command: **npm install mocha chakram**
 
 
 ### Run tests
